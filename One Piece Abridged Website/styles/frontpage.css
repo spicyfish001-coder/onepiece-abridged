@@ -1,0 +1,80 @@
+button {
+  cursor: pointer;
+  transition: 0.15s;
+  padding: 20px;
+}
+
+button:hover {
+  opacity: 0.5;
+}
+
+.header {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(255, 0, 0);
+padding: 150px;
+}
+
+.title-text {
+  font-size: 30px;
+}
+
+.subtitle-text {
+  font-size: 25px;
+}
+
+.body-text {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.audition-button {
+  background-color: aqua;
+}
+
+.discord-button {
+  background-color: purple;
+  color: white;
+}
+
+.instagram-button {
+  background-color: pink;
+}
+
+.youtube-button {
+  background-color: red;
+  color: white;
+  padding: 25px;
+}
+
+.twitter-button {
+  background-color: aqua;
+  color: black;
+}
+
+.tiktok-button {
+  background-color: grey;
+  color: black;
+}
+
+.top-image {
+  width: 1460px;
+}
+
+.discord-image, .instagram-image, .youtube-image, .audition-image, .twitter-image, .tiktok-image {
+  width: 30px;
+  vertical-align: middle;
+}
+
+.buttons {
+  background-color: aquamarine;
+  text-align: center;
+  padding: 200px;
+}
+
+.body {
+  background-color: aqua;
+  padding: 250px;
+  text-align: center;
+}
